@@ -1,16 +1,24 @@
-# medical_pdf
-
 A Medical Books application.
 
-## Getting Started
+<h1>Medical Ebooks</h1>
+<h4>An application for collection of books and other essentials in medical study</h4>
 
-This project is a starting point for a Flutter application.
+Made with flutter and firebase
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <ul>
+    <li>Attracting UI</li>
+    <li>All ebooks read online</li>
+    <li>Download ebooks for read offline</li>
+    <li>Categorized books</li>
+    <li>🔎 Browse the ever growing collections of books</li>
+   
+</ul>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</br></br>
+<img src="https://github.com/muhibbin-munna/medical_ebooks/blob/master/images/Screenshot_2023_02_01_22_19_10_69_c558fde18ddcf3f17a7d56ee304eacc1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/medical_ebooks/blob/master/images/Screenshot_2023_02_01_22_20_25_55_c558fde18ddcf3f17a7d56ee304eacc1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/medical_ebooks/blob/master/images/Screenshot_2023_02_01_22_20_30_91_c558fde18ddcf3f17a7d56ee304eacc1.jpg?raw=true" width="200">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+</p>
