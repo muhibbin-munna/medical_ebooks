@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236956398067",
+    "project_id": "medicalbooksapp",
+    "storage_bucket": "medicalbooksapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236956398067:android:047e33694432e57380a286",
+        "android_client_info": {
+          "package_name": "com.medicalpdf.medical_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236956398067-vhc63jk673unn0004iqovml92c1vfrc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE61l2TIHsuS8GkSgusmschNm1n7thPeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236956398067-vhc63jk673unn0004iqovml92c1vfrc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

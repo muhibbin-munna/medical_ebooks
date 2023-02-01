@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medical Pdf</string>
+    <string name="facebook_app_id">4219421611410171</string>
+    <string name="fb_login_protocol_scheme">fb4219421611410171</string>
+</resources>
